@@ -16,7 +16,7 @@ class Butterfly {
     }
 }
 
-console.log(2222);
+console.log(33333);
 
 // export{ sum }
 export default Butterfly
