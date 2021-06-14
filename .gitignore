@@ -1,3 +1,3 @@
 node_modules
-./packages/butterfly-npm/node_modules
-./packages/instrument/node_modules
+./packages/bty2/node_modules
+./packages/bty/node_modules
